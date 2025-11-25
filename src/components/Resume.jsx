@@ -14,7 +14,7 @@ const Resume = () => {
 
         <div className="flex flex-col sm:flex-row gap-4">
           <a
-            href="/gauriBhamkar_resume.pdf"
+            href="public/gauriBhamkar_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white py-2 px-6 text-sm hover:opacity-85 
@@ -24,7 +24,7 @@ const Resume = () => {
           </a>
 
           <a
-            href="/gauriBhamkar_resume.pdf"
+            href="public/gauriBhamkar_resume.pdf"
             download
             className="text-white py-2 px-6 text-sm hover:opacity-85 
             hover:scale-105 duration-300 font-semibold rounded-3xl bg-[#465697] text-center"
